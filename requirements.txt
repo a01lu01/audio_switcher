@@ -1,0 +1,13 @@
+# Core
+PySide6>=6.6.0
+pycaw>=20240216
+sounddevice>=0.4.6
+numpy>=1.24.0
+
+# UI
+qt-fluent-widgets>=1.4.0
+
+# System
+keyboard>=0.13.5
+pystray>=0.19.5
+Pillow>=10.0.0
